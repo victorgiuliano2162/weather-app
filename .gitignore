@@ -40,3 +40,7 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+src/assets/cold1.jpg
+src/assets/cold2.jpg
+src/assets/sun.jpg
+src/assets/raining.jpg
